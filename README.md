@@ -1,7 +1,7 @@
 # character-tooltips
 A Tampermonkey userscript which displays tooltip hints for a predefined list of characters whenever they show up on a website.
 
-You can get a better picture of what it does [here](https://charactertooltips.000webhostapp.com/) where the script is used to provide pronunciation help for Japanese katakana and hiragana characters.
+You can get a better picture of what it does [here](https://foxislam.000webhostapp.com/tooltips.html) where the script is used to provide pronunciation help for Japanese katakana and hiragana characters.
 
 # How to use this script:
 1) Download the [Tampermonkey extension for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-app-launcher-info-dialog)
